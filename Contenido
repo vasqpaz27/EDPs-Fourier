@@ -1,0 +1,32 @@
+CAPÍTULO 1. Ecuaciones en derivadas parciales
+1.1 Introducción a las ecuaciones en derivadas parciales. Conceptos básicos.
+1.2 Condiciones de contorno de Dirichlet y de Neumann.
+1.3 Unicidad, existencia y estabilidad.
+1.4 Integración directa de EDPs e integración mediante cambio de variable.
+1.5 Solución mediante separación de variables. Simetrías esférica, cilíndrica y rectangular.
+1.6 Clasificación de EDPs de segundo orden. 
+1.7 Ecuación de Laplace y ecuación de Poisson.
+1.8 Otras ecuaciones clásicas: ecuación del calor, Sturm-Liouville.
+1.9 Teorema de Earnshaw
+CAPÍTULO 2. Análisis de Fourier.
+2.1 Conceptos básicos de funciones periódicas.
+2.2 Base de funciones armónicas. Series de Fourier. Frecuencias armónicas y modos de Fourier.
+2.3 Distribuciones. Delta de Dirac: representaciones y propiedades.
+2.4 Transformada de Fourier. 
+2.5 Propiedades de la transformada de Fourier.
+2.6 Teorema de convolución.
+2.7 Teorema de Parseval.
+2.8 Conceptos básicos de wavelets.
+CAPÍTULO 3. Ecuaciones de ondas.
+3.1 Conceptos básicos: ondas, tipos de ondas, frecuencia, número de ondas.
+3.2 Ecuaciones de ondas. Tipos.
+3.3 Ondas armónicas. Ecuación de Helmholtz.
+3.4 Soluciones eeparables a la ecuación de Helmholtz.
+3.5 Ondas planas armónicas.
+3.6 Otras soluciones con diferente simetría: ondas armónicas cilíndricas y esféricas.
+3.7 Ondas contrapropagantes y ondas estacionarias.
+3.8 Linealidad y principio de superposición. Paquetes de ondas.
+3.9 Relación de dispersión.
+3.10 Propagación de pulsos. Velocidades de fase y de grupo.
+3.11 Nociones básicas sobre interferencias.
+3.12 Aplicaciones
